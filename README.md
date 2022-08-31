@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How One Feature From a Failed Startup Can Become a Billion Dollar Idea](https://cmlonder.com/how-one-feature-from-a-failed-startup-can-become-a-billion-dollar-idea)
+- [How buying an iPhone helped me to land my first job as a Developer?](https://cmlonder.com/how-buying-an-iphone-helped-me-to-land-my-first-job-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmlonder" alt="cmlonder" /></a> </p>
