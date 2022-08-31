@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a developer who is in love with his job. Big fan of all Pokemon-related topics, co-op, strategic games. Terrible guitar player, husband of a wonderful wife with 2 cats living on my keyboard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmlonder&label=Profile%20views&color=0e75b6&style=flat" alt="cmlonder" /> </p>
