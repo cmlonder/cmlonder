@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQS Injection in Detail](https://cmlonder.com/sqs-injection-in-detail-1)
 - [How One Feature From a Failed Startup Can Become a Billion Dollar Idea](https://cmlonder.com/how-one-feature-from-a-failed-startup-can-become-a-billion-dollar-idea)
 - [How buying an iPhone helped me to land my first job as a Developer?](https://cmlonder.com/how-buying-an-iphone-helped-me-to-land-my-first-job-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
